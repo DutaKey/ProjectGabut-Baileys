@@ -1,7 +1,7 @@
 # Instalation
-git clone https://github.com/DutaKey/ProjectGabut-Baileys
-cd <project>
-npm i github:dutakey/baileys
-change value config.json
-And
-npm start
+git clone https://github.com/DutaKey/ProjectGabut-Baileys <br>
+cd <project> <br>
+npm i github:dutakey/baileys <br>
+change value config.json <br>
+And <br>
+npm start <br>
